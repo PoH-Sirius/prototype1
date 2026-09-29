@@ -1,0 +1,71 @@
+{
+  "plate_left": {
+    "size_mm": [
+      31.001204925215188,
+      64.00120492521519,
+      8.001204925215188
+    ],
+    "volume_mm3": 10057.445464914872
+  },
+  "plate_right": {
+    "size_mm": [
+      31.001204925215188,
+      64.00120492521519,
+      8.001204925215188
+    ],
+    "volume_mm3": 10057.445464914872
+  },
+  "spring_1.8mm_clickfit": {
+    "size_mm": [
+      42.40000020000001,
+      19.800000200000003,
+      6.001802944395269
+    ],
+    "volume_mm3": 1789.4224079052378
+  },
+  "spring_2.0mm_clickfit": {
+    "size_mm": [
+      42.40000020000001,
+      20.000000200000002,
+      6.001865107995107
+    ],
+    "volume_mm3": 1950.057342116931
+  },
+  "spring_2.2mm_clickfit": {
+    "size_mm": [
+      42.40000020000001,
+      20.200000200000005,
+      6.001927271594942
+    ],
+    "volume_mm3": 2110.692276328623
+  },
+  "spring_2.4mm_clickfit": {
+    "size_mm": [
+      42.40000020000001,
+      20.400000200000008,
+      6.001989435194778
+    ],
+    "volume_mm3": 2271.3272105403157
+  },
+  "click_fit": {
+    "socket_entrance_width_mm": 4.15,
+    "socket_chamber_width_mm": 4.6,
+    "socket_height_mm": 6.2,
+    "socket_depth_mm": 6.2,
+    "tongue_width_mm": 3.8,
+    "tongue_height_mm": 5.8,
+    "tongue_depth_mm": 6.0,
+    "split_width_mm": 1.4,
+    "retaining_bump_each_side_mm": 0.3,
+    "nominal_entrance_side_clearance_mm": 0.17500000000000027,
+    "parts_in_grip_print": 3,
+    "parts_in_full_print": 9,
+    "spring_test_thicknesses_mm": [
+      1.8,
+      2.0,
+      2.2,
+      2.4
+    ],
+    "recommended_start_mm": 2.0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "version": 7,
+  "case_outer_size_mm": [
+    80.001,
+    57.001,
+    60.001
+  ],
+  "lid_outer_size_mm": [
+    84.801,
+    61.801,
+    7.001
+  ],
+  "case_valid_solid": true,
+  "lid_valid_solid": true,
+  "case_volume_mm3": 33371.326,
+  "lid_volume_mm3": 12361.245,
+  "openings": {
+    "vibrator_open_top_notch_width_mm": 46.0,
+    "opposite_short_end": "fully closed",
+    "pressure_sensor_open_top_notch_width_mm": 18.0,
+    "regulated_power_open_top_notch_width_mm": 14.0,
+    "long_side_notch_center_x_mm": 24.0,
+    "lid_center_opening_mm": [
+      22.0,
+      15.0
+    ],
+    "lid_opening_center_x_mm": 17.0,
+    "lid_opening_center_y_mm": -10.0
+  },
+  "parts_in_case_print": 2,
+  "parts_in_full_print": 9,
+  "unchanged_from_v6": [
+    "outer case envelope and lid fit",
+    "plate_left",
+    "plate_right",
+    "2.0 mm click-fit spring",
+    "four support pads",
+    "four narrow lid slots (middle-right and lower-right closed)"
+  ]
+}
